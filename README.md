@@ -10,3 +10,5 @@ Python 3.8 or higher<br>
 Azure OpenAI API Key and Resource<br>
 Bing Search API Key<br>
 Pre-processed document embeddings and metadata<br>
+## Acknowledgment
+This project was collaboratively developed with [Shreya_More](https://github.com/ShreyaMore17).
